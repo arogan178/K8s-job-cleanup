@@ -15,7 +15,7 @@ This Python script is designed to clean up Kubernetes jobs that have either comp
 
     ```sh
     git clone https://github.com/arogan178/K8s-job-cleanup.git
-    cd kubernetes-job-cleanup
+    cd K8s-job-cleanup
     ```
 
 2. **Set up a virtual environment (optional but recommended)**:
